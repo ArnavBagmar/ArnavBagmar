@@ -17,14 +17,12 @@
 - 🏆 **1st Place Most Creative Project** at ShellHacks 2025
 - 🏆 **2st Place Morgan and Morgan** at KnightHacks 2025
 - 🔍 Actively seeking **Summer 2026 Software Engineering Internships**
-- 📚 Dean's List recipient for 3 consecutive semesters
 
 ## 💡 What I'm Working On
 
 - Building full-stack applications with Next.js and TypeScript
 - Exploring distributed systems and cloud infrastructure
 - Contributing to open-source projects
-- Sharpening my skills in system design and algorithms
 
 ## 🛠️ Tech Stack
 
