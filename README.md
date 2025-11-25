@@ -67,22 +67,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBagmar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
 
 <div align="center">
 
 ### 💬 Let's Connect!
-
-I'm always open to discussing new projects, opportunities, or just chatting about tech!
-
-[![](https://visitcount.itsvg.in/api?id=ArnavBagmar&icon=0&color=12)](https://visitcount.itsvg.in)
 
 </div>
