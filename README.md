@@ -10,7 +10,7 @@
 
 - SWE Intern Previous @ Prepify AI
 - AI Intern Previous @ Biz4Group LLC
-- Building NOU Platform (fintech for emerging markets)
+- Building NOU Marketplace for Haiti Businesses
 - Looking for Summer 2026 internships
 
 ### I work with
