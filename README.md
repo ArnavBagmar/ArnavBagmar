@@ -10,7 +10,7 @@
 
 - SWE Intern Previous @ Prepify AI
 - AI Intern Previous @ Biz4Group LLC
-- Building NOU Marketplace for Haiti Businesses
+- Building NOU Marketplace
 - Looking for Summer 2026 internships
 
 ### I work with
