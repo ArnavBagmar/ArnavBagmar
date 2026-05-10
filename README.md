@@ -1,27 +1,20 @@
 # Arnav Bagmar
+CS @ University of Florida · graduating Dec 2026
 
-**CS @ UF '27 | Building software that ships**
+---
+### wins
 
-[LinkedIn](https://linkedin.com/in/arnavbagmar) · [Email](mailto:arnavbagmar3@gmail.com) · [Portfolio](https://arnavbagmar.us)
+| | project | event |
+|---|---|---|
+| 🥇 1st | **GitFlow** — AI repo visualization | ShellHacks 2025 |
+| 🥈 2nd | **PowerLegal** — AI legal assistant | KnightHacks 2025 |
 
 ---
 
-### Currently
 
-- SWE Intern Previous @ Prepify AI
-- AI Intern Previous @ Biz4Group LLC
-- Building NOU Marketplace
-- Looking for Summer 2026 internships
-
-### I work with
-
+### stack
 `TypeScript` `Python` `C++` `React` `Next.js` `Node.js` `PostgreSQL` `AWS`
 
-### Recent wins
-
-- 🥇 ShellHacks 2025 — GitFlow
-- 🥈 KnightHacks 2025 — PowerLegal
-
 ---
 
-*Open to collaborating on interesting problems.*
+[linkedin](https://linkedin.com/in/arnavbagmar) · [portfolio](https://arnavbagmar.us) · [email](mailto:arnavbagmar3@gmail.com)
