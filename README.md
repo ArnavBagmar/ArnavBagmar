@@ -1,15 +1,20 @@
 # Arnav Bagmar
-**CS @ UF Dec '26**
+Computer Science @ University of Florida · Dec 2026
+
+Full-stack engineer focused on scalable web platforms, AI-powered applications, and real-time systems.
+
 [LinkedIn](https://linkedin.com/in/arnavbagmar) · [Email](mailto:arnavbagmar3@gmail.com) · [Portfolio](https://arnavbagmar.us)
+
 ---
-### Currently
-- SWE Intern @ EY (Summer '26)
-- SWE Intern Previous @ Prepify AI (Fall '25) & Biz4Group LLC (Summer '25)
-- Building NOU Marketplace
 
-### Recent wins
-- 🥇 ShellHacks 2025 — GitFlow
-- 🥈 KnightHacks 2025 — PowerLegal
+### Experience
+- SWE Intern @ EY (Summer 2026)
+- SWE Intern @ Prepify AI (Fall 2025)
+- SWE Intern @ Biz4Group LLC (Summer 2025)
 
+### Building
+- RoboTrader - An automated AI agent trading agent based on realtime anayltics and data. 
 
-
+### Achievements
+- 1st ShellHacks 2025 — GitFlow
+- 2nd KnightHacks 2025 — PowerLegal
