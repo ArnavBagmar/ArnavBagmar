@@ -1,8 +1,6 @@
 # Arnav Bagmar
 Computer Science @ University of Florida · Dec 2026
 
-Full-stack engineer focused on scalable web platforms, AI-powered applications, and real-time systems.
-
 [LinkedIn](https://linkedin.com/in/arnavbagmar) · [Email](mailto:arnavbagmar3@gmail.com) · [Portfolio](https://arnavbagmar.us)
 
 ---
